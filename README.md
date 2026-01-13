@@ -1,2 +1,2 @@
 # db-modeling-basic
-DB modeling 실습
+DB Modeling 실습
